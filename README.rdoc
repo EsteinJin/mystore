@@ -1,4 +1,8 @@
- Prerequisites
+
+Official Web Site
+https://guides.spreecommerce.com/developer/getting_started_tutorial.html
+
+Prerequisites
 You will create a simple Spree project called mystore. Before you can start building the application, you need to make sure that you have Rails itself installed.
 
 To run Spree 3.0 you need the latest Rails version, 4.2.0.
